@@ -63,3 +63,4 @@ Includes filters for Customer Name, Product Name, and Promotion Name.
 Fields: Order ID, Sales/Profit, Units Sold, Discount details, etc.
 
 Perfect for auditing, deep dives, or tracing high-value orders (e.g., Apple MacBook Air transactions).
+![Screenshot 2025-04-13 161337](https://github.com/user-attachments/assets/97ca4546-466f-4b35-9618-c64de0f20119)
