@@ -17,11 +17,11 @@ Number of Orders: Total orders processed: 3510.
 <br>
 ## Dataset used:-
 <a href="https://github.com/Moni680/store-product-analysis-PowerBI-/blob/main/Store%20product%20Dataset.xlsx"> Dataset view </a>
+<br>
 <a href="https://github.com/Moni680/store-product-analysis-PowerBI-/commit/15a61667861dffe5f1504b94bc42af8b842bd0aa"> dashboard view </a>
 <br>
-"C:\Users\pc\Pictures\Screenshots\Screenshot 2025-04-13 161240.png"
-
-
+![Screenshot 2025-04-13 161240](https://github.com/user-attachments/assets/f4c82040-d402-4bc1-9ed8-17653974b224)
+<br>
 🏆 Top/Bottom 5 Product Analysis
 The Top/Bottom 5 Analysis tab dives deeper into product-level performance:
 
@@ -36,6 +36,7 @@ Top 5 Products by Quantity & Profit:
 Apple iPhone 14 ranks highest across all three metrics: sales, quantity sold, and profit.
 
 Bottom 5 Products:
+![Screenshot 2025-04-13 161308](https://github.com/user-attachments/assets/1b18d6ce-6018-484f-8792-56cb1e12d21c)
 
 Products like Tupperware Lunch Box and Nivea Body Lotion fall into the bottom range across all key metrics.
 
